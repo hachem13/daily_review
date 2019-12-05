@@ -1,8 +1,14 @@
 # suivi semaine 49 
 
+  
+
   ## 05/12/2019 
 
-    * veille
+    * veille environnement python
+    * read the docs (ECA)
+    * trello: (A)
+      * arbre de compétence ( https://trello.com/b/sUBgl79F/arbre-de-comp%C3%A9tence ) 
+      * road map ( https://trello.com/b/Bf7eYZzk/roadmap )
 
   ## 04/12/2019 
       
