@@ -14,14 +14,14 @@
 
 - les graphiques
 
-- exercice (se référer à cour python)
+- exercice (se référer environnement_data/cour python)
 
 
 20/11/2019
 
-- exercie boucle for, while (se référer à cour python)
+- exercie boucle for, while (se référer environnement_data/cour python)
 
-- crée un algorithme pour recevoire et donnée un cadeau (se référer à cour python)
+- crée un algorithme pour recevoire et donnée un cadeau (se référer à environnement_data/cour python)
 
 
 19/11/2019
@@ -30,7 +30,7 @@
 
 - travaillé avec python sur jupyter Notebook (a)
 
-- exercice condition variable (se référer à cour python)
+- exercice condition variable (se référer à environnement_data/cour python)
 
 18/11/2019
 
