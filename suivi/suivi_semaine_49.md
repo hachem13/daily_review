@@ -1,14 +1,19 @@
 # suivi semaine 49 
 
-  
+  ## 06/12/2019
+
+    * veille sur le fichier .csv
+    * veille google sheet
+    * creation de 3 tableaux (entreprises, offres, compétences)  et les reliers entre eux (A)
+    * creation de fichier csv (voir dev_data_job) (A)
 
   ## 05/12/2019 
 
     * veille environnement python
     * read the docs (ECA)
     * trello: (A)
-      * arbre de compétence ( https://trello.com/b/sUBgl79F/arbre-de-comp%C3%A9tence ) 
-      * road map ( https://trello.com/b/Bf7eYZzk/roadmap )
+      * arbre de compétence (https://trello.com/b/sUBgl79F/arbre-de-comp%C3%A9tence) 
+      * road map (https://trello.com/b/Bf7eYZzk/roadmap)
 
   ## 04/12/2019 
       
