@@ -1,5 +1,9 @@
 # suivi semaine du 09/12/2019 au 15/12/2019
 
+## 10/12/2019
+
+* exercice sql base de donnée skala (voir corrigé environnement_dev_data/exercice sql/skala-db/corrigé skala.md )
+
 ## 09/12/2019
 
 
