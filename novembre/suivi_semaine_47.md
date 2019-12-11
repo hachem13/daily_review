@@ -14,14 +14,14 @@
 
 - les graphiques
 
-- exercice (se référer environnement_dev_data/cour python)
+- exercice (se référer environnement_dev_data/exercice python)
 
 
 20/11/2019
 
-- exercie boucle for, while (se référer environnement_dev_data/cour python)
+- exercie boucle for, while (se référer environnement_dev_data/exercie python)
 
-- crée un algorithme pour recevoire et donnée un cadeau (se référer à environnement_dev_data/cour python)
+- crée un algorithme pour recevoire et donnée un cadeau (se référer à environnement_dev_data/exercice python)
 
 
 19/11/2019
