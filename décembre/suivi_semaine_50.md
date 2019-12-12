@@ -1,5 +1,10 @@
 # suivi semaine du 09/12/2019 au 15/12/2019
 
+## 12/12/2019
+
+* visite de la société le Paysan Urbain (http://lepaysanurbain.fr/)
+* créer un dossier cadrage serre et l'envoyer 
+
 ## 10/12/2019
 
 * exercice sql base de donnée skala (voir corrigé environnement_dev_data/exercice sql/skala-db/corrigé skala.md )
