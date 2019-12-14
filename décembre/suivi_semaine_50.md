@@ -1,5 +1,10 @@
 # suivi semaine du 09/12/2019 au 15/12/2019
 
+## 13/12/2019
+
+* Beefing sur fête kado
+* petit point business
+
 ## 12/12/2019
 
 * visite de la société le Paysan Urbain (http://lepaysanurbain.fr/)
