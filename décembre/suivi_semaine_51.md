@@ -1,5 +1,10 @@
 # suivi semaine du 16/12/2019 au 22/12/2019
 
+## 18/12/2019
+
+* projet micropousses
+* présentation read the docs
+
 ## 17/12/2019
 
 * Retour sur le passage du MCD au MRD
