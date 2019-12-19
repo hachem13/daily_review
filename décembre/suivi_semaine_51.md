@@ -1,5 +1,10 @@
 # suivi semaine du 16/12/2019 au 22/12/2019
 
+## 19/12/2019
+
+* complémentation de la deocumentation de python sur read the docs
+* developpement de trello roadmap
+
 ## 18/12/2019
 
 * projet micropousses
