@@ -1,5 +1,10 @@
 # suivi semaine du 16/12/2019 au 22/12/2019
 
+## 20/12/2019
+
+* atelier trello
+* completer la documentation python
+
 ## 19/12/2019
 
 * complémentation de la deocumentation de python sur read the docs
