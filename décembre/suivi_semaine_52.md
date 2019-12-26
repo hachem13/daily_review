@@ -1,7 +1,7 @@
 # suivi semaine du 23/12/2019 au 29/12/2019
 
 
-## 27/12/2019
+## 27/12/2019
 
 * performencde python sur openclassrooms
 
