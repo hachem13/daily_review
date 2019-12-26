@@ -1,5 +1,6 @@
 # suivi semaine du 16/12/2019 au 22/12/2019
 
+
 ## 20/12/2019
 
 * atelier trello
