@@ -1,10 +1,10 @@
 # suivi semaine du 18/11/2019 au 24/11/2019
 
-22/11/2019
+## 22/11/2019
  
 - revision
 
-21/11/2019
+## 21/11/2019
 
 - les étapes de construction d'un modéle 
 
@@ -17,14 +17,14 @@
 - exercice (se référer environnement_dev_data/exercice python)
 
 
-20/11/2019
+## 20/11/2019
 
 - exercie boucle for, while (se référer environnement_dev_data/exercie python)
 
 - crée un algorithme pour recevoire et donnée un cadeau (se référer à environnement_dev_data/exercice python)
 
 
-19/11/2019
+## 19/11/2019
 
 - installer anconda (a)
 
@@ -32,7 +32,7 @@
 
 - exercice condition variable (se référer à environnement_dev_data/cour python)
 
-18/11/2019
+## 18/11/2019
 
 - installer jupyter Notebook (a)
 

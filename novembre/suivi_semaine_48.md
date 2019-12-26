@@ -1,9 +1,10 @@
-# Suivi
- 29/11/2019
+# Suivi du 25/11/2019 au 01/12/2019
+ 
+ ## 29/11/2019
 
 - veille et installation read the docs
 
- 28/11/2019
+ ## 28/11/2019
 
 - STAND-up
   
@@ -27,7 +28,7 @@
 
 		- TDM_read_me_docs.md
 
- 27/11/2019
+ ## 27/11/2019
 
 - STAND-UP
 	

@@ -5,12 +5,12 @@
 * atelier trello
 * completer la documentation python
 
-## 19/12/2019
+## 19/12/2019
 
 * complémentation de la deocumentation de python sur read the docs
 * developpement de trello roadmap
 
-## 18/12/2019
+## 18/12/2019
 
 * projet micropousses
 * présentation read the docs
@@ -24,4 +24,4 @@
 ## 16/12/2019
 
 * concéption de dictionnaire de donnée pour le projet micropousses
-* établir les questions pour le projet micropousses 
+* établir les questions pour le projet micropousses
