@@ -3,6 +3,7 @@
 
 ## 27/12/2019
 
+* j'ai tous perdu sur virtual-box
 * performencde python sur openclassrooms
 
 ## 26/12/2019
