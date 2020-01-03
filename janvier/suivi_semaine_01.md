@@ -13,3 +13,5 @@
 * arbre de compétences (https://trello.com/b/sUBgl79F/arbre-de-comp%C3%A9tence)
 
 * offre de job sur google sheet (dev_data_job/hachem_mosbah_data_stage - offre.csv)
+
+* commande git tag
