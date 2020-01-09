@@ -1,5 +1,9 @@
 # suivi semaine du 06/01/2020 au 12/01/2020
 
+## 09/01/2020
+
+* Atelier projet open data : sirene
+
 ## 08/01/2020
 
 * réstitution du projet micropousses
