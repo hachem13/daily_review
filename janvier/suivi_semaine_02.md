@@ -4,6 +4,8 @@
 
 * travail sur google sheet en utilisent le model entité/ association avec la convention 
 
+* Ajout d'offre d'emploi sur dev_data_job/hachem_mosbah_data_stage - offre.csv
+
 ## 09/01/2020
 
 * Atelier projet open data : sirene
