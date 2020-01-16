@@ -1,5 +1,11 @@
 # suivi semaine du 13/01/2020 au 19/01/2020
 
+## 16/01/2020
+
+* veille magrit-Cartoghraphie thématique
+
+* intervention Joël Gombin de datactivist
+
 ## 15/01/2020
 
 * veille :  qu'est ce que l'opendata? les formats de données de l'open data
