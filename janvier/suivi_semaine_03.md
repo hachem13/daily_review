@@ -1,5 +1,13 @@
 # suivi semaine du 13/01/2020 au 19/01/2020
 
+## 17/01/2020
+
+* Veille : opendata, présentation datactivist / recap presentation datactivist
+    (1-3p. max), prenom-nom-datactivist.md
+* Atelier en groupe : Mise à jour tableur Google Sheet (base entreprise -
+    offres) / Export des données actualisées provenant du tableur Google
+    Sheets dans un fichier intitulé prenom-nom-joblist.csv
+
 ## 16/01/2020
 
 * veille magrit-Cartoghraphie thématique
