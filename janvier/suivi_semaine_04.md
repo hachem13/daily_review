@@ -1,5 +1,10 @@
 # suivi semaine du 20/01/2020 au 26/01/2020
 
+## 23/01/2020
+
+* Bootcamp python https://www.sololearn.com/Play/Python
+* Bootcam sql 
+
 ## 22/01/2020
 
 * Bootcamp python 
