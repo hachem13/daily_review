@@ -1,5 +1,13 @@
 # suivi semaine du 20/01/2020 au 26/01/2020
 
+## 24/01/2020
+
+* bootcamp sql https://www.sololearn.com/Certificate/1060-17191910/pdf/
+  
+* bootcamp python
+  
+* googlesheets stage 
+
 ## 23/01/2020
 
 * Bootcamp python https://www.sololearn.com/Play/Python
