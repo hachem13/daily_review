@@ -1,9 +1,16 @@
 # suivi semaine du 27/01/2020 au 02/02/2020
+
+## 31/01/2020
+
+* bootcamp python snakify
+
+* Intérvention des banquiers Martin Maurel pour du montoring (recherche d'emploi)
+  
 ## 30/01/2020
 
 * bootcamp python snakify 
 
-* intérvention pôle emploi la rose (codecombat) 
+* Intérvention chez pôle emploi la rose (codecombat) 
 
 ## 29/01/2020
 
