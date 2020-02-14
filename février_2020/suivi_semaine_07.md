@@ -1,5 +1,11 @@
 # suivi semaine du 10/02/2020 au 16/02/2020
 
+## 14/02/2020
+
+* Création de CV 
+
+* Bootcamp SQL (https://sqlbolt.com/lesson/inserting_rows)
+
 ##  13/02/2020
 
 * Etablire une lettre de motivation dans le cadre de stage
