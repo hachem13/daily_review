@@ -2,7 +2,7 @@
 
 # 28/02/2020
 
-* audit tech
+* audit tech(https://docs.google.com/spreadsheets/d/1FEpo36oh0gahwJBKRMSELWM0RolfaZgVMj_og-AUeG0/edit#gid=0)
 
 # 27/02/2020
 
