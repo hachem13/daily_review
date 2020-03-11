@@ -4,11 +4,11 @@
 
 * veille deeplearning 
 
-* open data days
+* open data days(stage)
 
 ## 05/03/2020
 
-* veille deeplearning
+* veille deeplearning(stage)
 
 * open data days
 
@@ -18,7 +18,7 @@
   
 * ## 03/03/2020
 
-* veuille sur keras et tensorflow
+* veuille sur keras et tensorflow(stage)
 
 ## 02/03/2020 
 
