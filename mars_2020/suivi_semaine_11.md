@@ -1,5 +1,11 @@
 # suivi semaine du 09/03/2020 au 15/03/2020
 
+## 12/03/2020
+
+* Exportation d'image avec Atlas
+
+* veille sur yolo ou yolt pour l'utilisation de la reconaissance de parking 
+
 ## 11/03/2020
 
 * Extracton de map sur overpass
