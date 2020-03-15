@@ -1,16 +1,26 @@
 # suivi semaine du 09/03/2020 au 15/03/2020
 
+## 13/02/2020
+
+* Stage:
+
+  * Découpage et exportation d'image avec QGIS et Atlas
+
 ## 12/03/2020
 
-* Exportation d'image avec Atlas
+* Stage:
 
-* veille sur yolo ou yolt pour l'utilisation de la reconaissance de parking 
+  * Exportation d'image avec Atlas
+
+  * veille sur yolo ou yolt pour l'utilisation de la reconaissance de parking 
 
 ## 11/03/2020
 
-* Extracton de map sur overpass
+* Stage:
 
-* Extraction d'horthophoto de QGIS
+  * Extracton de map sur overpass
+
+  * Extraction d'horthophoto de QGIS
 
 ## 10/03/2020
 
