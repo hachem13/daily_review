@@ -1,5 +1,13 @@
 # suivi semaine du 23/03/2020 au 29/03/2020
 
+## 27/03/2020
+
+* Stage: 
+
+  * réussite de l'entrainement parking paca
+  
+  * essai du test sur senas
+
 ## 26/03/2020
 
 * Stage: 
