@@ -1,12 +1,17 @@
 # suivi du 30/03/2020 au 05/04/2020
+## 03/04/2020
+
+* projet jeu 
+
+## 02/04/2020
+
+* Projet jeu
 
 ## 01/04/2020
 
 * Heritage entre class
 
 * Exercice heritage entre class
-
-* projet
 
 ## 31/03/2020
 
@@ -16,7 +21,7 @@
 
 ## 30/03/2020
 
-* requêtes imbriquées
+* Requêtes imbriquées
 
 * Exercie requêtes imbriquées
 
